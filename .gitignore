@@ -8,3 +8,10 @@ catboost_info/
 tuner_results/
 catboost_info/
 .ipynb_checkpoints/
+autos.csv
+car_cleaned
+tuner_results/
+catboost_info/
+.ipynb_checkpoints/
+*.h5
+*.tfevents
