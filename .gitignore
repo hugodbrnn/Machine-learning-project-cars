@@ -5,3 +5,6 @@ tuner_results/
 catboost_info/
 *.h5
 *.tfevents
+tuner_results/
+catboost_info/
+.ipynb_checkpoints/
